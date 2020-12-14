@@ -37,7 +37,7 @@ function Portfolio() {
 
     return (
         <section>
-            <h2>Portfolio</h2>
+            <h1>Portfolio</h1>
             <div class="grid-container">
                 {portfolioItems.map((item, i) => (
                     <div class="flex">

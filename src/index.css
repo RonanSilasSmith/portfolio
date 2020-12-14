@@ -19,7 +19,11 @@ main {
 * {
   box-sizing: border-box;
   font-family: sans-serif;
-  color: var(--primary);
+}
+
+h1{
+  font-weight: bolder;
+  color: #7747d6;
 }
 
 html,
@@ -37,9 +41,9 @@ body {
   background: var(--dark);
   color: var(--light);
   font-family: 'Poiret One', cursive;
+  background-image: linear-gradient(to bottom right, var(--primary), yellow);
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -98,6 +102,7 @@ header {
 header a {
   color: var(--primary);
 }
+
 
 button {
   font-size: 1rem;
@@ -298,4 +303,17 @@ a {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   gap: 10px 10px;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+}
+footer{
+  color: var(--primary)
 }
