@@ -3,8 +3,8 @@ import React from 'react';
 function Portfolio() {
     const portfolioItems = [
         {
-            name: 'Run Buddy',
-            link: 'https://ronansilassmith.github.io/Run-Buddy/',
+            name: 'Shop Tinder',
+            link: 'https://shop-tinder.herokuapp.com/',
             photo: 'placeholder.png',
         },
         {
