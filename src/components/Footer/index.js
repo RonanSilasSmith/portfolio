@@ -5,8 +5,8 @@ function Footer() {
         <footer>
             <ul>
                 <li><a href="https://github.com/RonanSilasSmith">Github: RonanSilasSmith</a></li>
-                <li>Contact me at: smith.ronan@outlook.com</li>
-                <li>Call Me! 555-5555</li>
+                <li>Email Me! smith.ronan@outlook.com</li>
+                <li>Call Me! (907)903-1031</li>
             </ul>
         </footer>
     )

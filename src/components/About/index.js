@@ -5,13 +5,7 @@ function About() {
             <h1 id="about">Who am I?</h1>
             <div className="my-2">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex
-                    condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna
-                    mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum.
-                    Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique
-                    justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea
-                    dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh.
-                    Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
+                    Well to start, Hi! My name is Ronan Smith, but if you've come to this website I'm guessing you've learned that already. You may also know that I'm a Full Stack developer with experience in the MERN stack. I'm always looking for new ways to grow and learn, and I'm also currently looking for work! Links to contact me are in the well named "contact me" section or you can find them at the footer below!
         </p>
             </div>
         </section>
